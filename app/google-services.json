@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494196898425",
+    "project_id": "blinkit-clone-21438",
+    "storage_bucket": "blinkit-clone-21438.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494196898425:android:298b984706bc040de472a8",
+        "android_client_info": {
+          "package_name": "com.example.adminblinkitclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA5-qn5ikGw0zS8h491cQ82ejB9B__Q74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
