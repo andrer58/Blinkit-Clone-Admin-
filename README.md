@@ -2,8 +2,8 @@
 
 A powerful **Admin Panel Clone of Blinkit** designed for managing products, orders, and categories efficiently in an online grocery delivery app. Built with **XML layouts** and the **MVVM architecture**, this project demonstrates real-time operations using **Firebase** and includes key admin-side functionalities with a smooth and responsive UI.
 
-![Home Screen](Screenshots/HomeScreen(Products).png)
-![Product Management](Screenshots/AddProductScreen.png)
+![Home Screen](Screenshots/HomeScreen(Products).jpg)
+![Product Management](Screenshots/AddProductScreen.jpg)
 
 ---
 
@@ -54,7 +54,7 @@ A powerful **Admin Panel Clone of Blinkit** designed for managing products, orde
 
 | Dashboard | Product Upload | Orders |
 |-----------|----------------|--------|
-| ![](Screenshots/HomeScreen(Products).png) | ![](Screenshots/AddProductScreen.png) | ![](Screenshots/OrderDetailScreen.png) |
+| ![](Screenshots/HomeScreen(Products).jpg) | ![](Screenshots/AddProductScreen.jpg) | ![](Screenshots/OrderDetailScreen.jpg) |
 
 
 ---
@@ -107,3 +107,10 @@ A powerful **Admin Panel Clone of Blinkit** designed for managing products, orde
 - Order tracking system
 
 ---
+
+
+## 🔗 Let's Connect
+
+If you liked the project or found it useful, feel free to ⭐️ the repo and connect with me on:
+
+- [GitHub](https://github.com/Nikki1930)
